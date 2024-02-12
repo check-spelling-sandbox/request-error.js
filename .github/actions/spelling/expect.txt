@@ -1,0 +1,15 @@
+Autobuild
+backticks
+codeql
+esbuild
+githubactions
+labled
+might've
+OAuth
+octokitbot
+opensource
+outdir
+terraform
+unpkg
+workflows
+yml
